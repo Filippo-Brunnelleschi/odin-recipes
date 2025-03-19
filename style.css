@@ -7,10 +7,6 @@
     justify-content: center;
 }
 
-body{
-    background-color: rgba(22, 22, 82, 0.863);
-    
-}
 
 h1, p, h2, li{
     color: rgb(218, 216, 216);
@@ -21,3 +17,26 @@ a {
     font-size: large;
 }
 
+.recipe_page {
+    background-color: rgb(119, 102, 81);
+}
+
+.index_page{
+    background-color: rgba(22, 22, 82, 0.863);
+    
+}
+
+
+.recipe_page .container {
+    display: block;
+    justify-self: center;
+    background-color:  rgb(150, 128, 101);
+    padding-top:18px;
+    padding-bottom:18px;
+    padding:18px 50px;
+    border: 2px solid rgb(75, 64, 52);
+}
+
+span {
+    color: rgb(150, 128, 101);
+}
