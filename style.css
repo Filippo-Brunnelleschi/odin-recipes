@@ -1,0 +1,23 @@
+.boldest {
+    font-weight: 1000;
+}
+
+.F_title {
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgba(22, 22, 82, 0.863);
+    
+}
+
+h1, p, h2, li{
+    color: rgb(218, 216, 216);
+}
+
+a {
+    color: rgb(163, 163, 201);
+    font-size: large;
+}
+
